@@ -1,9 +1,28 @@
+2019年度最受欢迎中国开源软件评选
+请给JeecgBoot 投票，谢谢支持。
+https://www.oschina.net/p/jeecg-boot
+
+
+JEECG新版已出强烈推荐 ： [JeecgBoot 前后端分离(最潮技术栈 SpringBoot2+Antd-Vue)](https://github.com/zhangdaiscott/jeecg-boot)
+
+
+
+![JEECG](https://static.oschina.net/uploads/img/201905/24184932_ak9D.png "Jeecg快速开发平台")
+
 JEECG 微云快速开发平台
 ===============
 
-当前最新版本： 3.8（发布日期：20181024）
+当前最新版本： 4.0（发布日期：20190805）
 
-JEECG推出前后端分离版本： [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)
+[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg/blob/master/LICENSE)
+[![](https://img.shields.io/badge/Author-JEECG团队-orange.svg)](http://www.jeecg.com)
+[![](https://img.shields.io/badge/version-2.0-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg)
+[![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg)
+[![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg)
+
+
+
+
 
 前言：
 -----------------------------------
@@ -46,6 +65,21 @@ JEECG快速开发平台，可以应用在任何J2EE项目的开发中，尤其�
 * 21.支持二级管理员，权限细化管理
 * 22.代码生成器支持resutful接口生成
 
+
+技术文档
+-----------------------------------
+* [在线演示](http://demo.jeecg.com)
+* [开发环境搭建入门](https://jeecg3.mydoc.io/?t=286008)
+* [开发文档](https://jeecg3.mydoc.io)
+* [入门常见问题贴](http://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1)
+* [JEECG 实战视频教程](https://edu.csdn.net/combo/detail/905)
+* [本地maven仓库下载](https://gitee.com/jeecg/jeecg-local-maven)
+* [非Maven版本下载](https://github.com/zhangdaiscott/jeecg-nomaven)
+* [JEECG 版本日志](http://www.jeecg.org/forum.php?mod=viewthread&tid=365&extra=page%3D1)
+
+
+
+
 JEECG 功能特点
 -----------------------------------
 * 	采用SpringMVC + Hibernate + Minidao(类Mybatis) + Easyui(UI库)+ Jquery + Boostrap + Ehcache + Redis + Ztree + Vue + Boostrap-table + ElementUI等基础架构</br>
@@ -80,7 +114,7 @@ JEECG 功能特点
 *   <b>技术点二十五：</b>支持二级管理员，权限细化管理</br>
 *   <b>技术点二十六：</b>代码生成器支持resutful接口生成</br>
 
-* 	JEECG V3.7.8, 经过了专业压力测试,性能测试，保证后台数据的准确性和页面访问速度</br>
+* 	JEECG V4.0, 经过了专业压力测试,性能测试，保证后台数据的准确性和页面访问速度</br>
 * 	支持多种浏览器: IE, 火狐, Google 等</br>
 * 	支持数据库: Mysql,Oracle,Postgre,SqlServer等</br>
 * 	基础权限: 用户，角色，菜单权限，按钮权限，数据权限</br>
@@ -90,16 +124,6 @@ JEECG 功能特点
 * 	要求JDK1.6+</br>
 
 
-技术文档
------------------------------------
-* [在线演示](http://demo.jeecg.org)
-* [JEECG 入门开发环境搭建](http://jeecg3.mydoc.io/?t=286008)
-* [JEECG 在线开发文档](http://jeecg3.mydoc.io)
-* [JEECG 常见问题贴](http://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1)
-* [JEECG 本地maven仓库下载](https://gitee.com/jeecg/jeecg-local-maven)
-* [非Maven版本下载](https://github.com/zhangdaiscott/jeecg-nomaven)
-* [JEECG 版本日志](http://www.jeecg.org/forum.php?mod=viewthread&tid=365&extra=page%3D1)
-* JEECG 视频教程(网盘密码rxk3): [https://pan.baidu.com/s/1ONWNrtKbNY3gI3TztgtOJA](https://pan.baidu.com/s/1ONWNrtKbNY3gI3TztgtOJA)
 
 
 工程说明
@@ -110,8 +134,8 @@ JEECG 功能特点
 技术交流
 -----------------------------------
 * 	QQ交流群： ⑦286263896、其他群(全满)</br>
-* 	官方论坛： [http://www.jeecg.org](http://www.jeecg.org)
-* 	官方博客： [http://blog.csdn.net/zhangdaiscott](http://blog.csdn.net/zhangdaiscott)
+* 	官方网站： [http://www.jeecg.com](http://www.jeecg.com)
+* 	官方博客： [https://jeecg.blog.csdn.net](https://jeecg.blog.csdn.net)
 * 	关注官方微信公众号，获取更多资讯
 
 ![输入图片说明](https://static.oschina.net/uploads/img/201807/09172938_ltsb.jpg "在这里输入图片标题")
@@ -119,7 +143,7 @@ JEECG 功能特点
 
 社区荣誉
 -----------------------------------
-* 开源社区：http://www.jeecg.org
+* 官网：http://www.jeecg.com
 
 * ★2012年JEECG在Google Code上开源;
 * ★2012年底开源项目JEECG被"ITeye专家访谈";
